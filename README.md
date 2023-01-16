@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MET landing page
+
+It's a responsive single-page landing for the Met.
+This project is written on pure HTML, CSS, and Javascript according to methodology BEM with the usage of preprocessors (SASS).
+
+- [DEMO LINK](https://iryna-lelyk.github.io/the-met-landing/)
+- [MET landing design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
